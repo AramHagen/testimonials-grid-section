@@ -253,7 +253,7 @@ main {
 .item1 {
   grid-area: item1;
   background-color: var(--moderate-violet);
-  background-image: url("/images/bg-pattern-quotation.svg");
+  background-image: url("../images/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-position: 90% 0;
 }
